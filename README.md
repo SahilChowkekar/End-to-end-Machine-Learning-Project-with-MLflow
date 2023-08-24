@@ -10,7 +10,7 @@ This project demonstrates wine quality prediction using machine learning techniq
 - [Installation](#installation)
 - [MLflow Tracking](#mlflow-tracking)
 - [AWS CICD Deployment with Github Actions](#aws-cicd-deployment-with-github-actions)
-- [Preview of Text Summarizer in Action](#preview-of-text-summarizer-in-action)
+- [review of Wine Quality Prediction in Action](#preview-of-wine-quality-prediction-in-action)
 - [License](#license)
 
 ## Introduction
@@ -193,9 +193,9 @@ Please make sure to review and adjust the content as needed, especially the spec
 
 Here's a preview of the Wine Quality Prediction in action:
 
-![Text Summarizer Screenshot](images/text-summarizer-screenshot.png)
+![Home Screenshot](https://github.com/SahilChowkekar/Wine-Quality-Prediction-with-MLflow/blob/master/img/home.png)
 
-![Text Summarizer Screenshot](images/text-summarizer-screenshot.png)
+![Result Screenshot](https://github.com/SahilChowkekar/Wine-Quality-Prediction-with-MLflow/blob/master/img/result.png)
 
 
 
