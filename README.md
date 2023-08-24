@@ -21,3 +21,6 @@ export MLFLOW_TRACKING_USERNAME=SahilChowkekar
 export MLFLOW_TRACKING_PASSWORD=1dc4f330b0a4f858969f6cee768b6252ac0bdbf8
 
 ```
+
+
+062582090401.dkr.ecr.us-east-2.amazonaws.com/mlproj
