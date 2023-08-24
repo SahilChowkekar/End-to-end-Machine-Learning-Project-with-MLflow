@@ -239,7 +239,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #0085A1;
+  color: #0A1172;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -308,7 +308,7 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
+  color: #040405;
   text-align: left;
 }
 
