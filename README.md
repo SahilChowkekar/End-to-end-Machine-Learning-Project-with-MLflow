@@ -10,7 +10,7 @@ This project demonstrates wine quality prediction using machine learning techniq
 - [Installation](#installation)
 - [MLflow Tracking](#mlflow-tracking)
 - [AWS CICD Deployment with Github Actions](#aws-cicd-deployment-with-github-actions)
-- [review of Wine Quality Prediction in Action](#preview-of-wine-quality-prediction-in-action)
+- [Preview of Wine Quality Prediction in Action](#preview-of-wine-quality-prediction-in-action)
 - [License](#license)
 
 ## Introduction
